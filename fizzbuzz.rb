@@ -9,3 +9,6 @@ def fizzbuzz number
     "Buzz"
   end
 end
+
+
+fizzbuzz(5)
