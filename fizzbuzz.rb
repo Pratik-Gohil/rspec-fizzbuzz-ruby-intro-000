@@ -11,4 +11,4 @@ def fizzbuzz number
 end
 
 
-fizzbuzz(5)
+puts fizzbuzz(5)
